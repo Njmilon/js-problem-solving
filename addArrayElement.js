@@ -1,6 +1,5 @@
 //without function
 
-/*--------------------------------------------
 const arrNum = [20, 39, 13, 345,53];
 
 let totalValue = 0;
@@ -10,7 +9,7 @@ for (let i = 0; i < arrNum.length; i++) {
     totalValue = totalValue + element;
     console.log(indexNumber, element, totalValue);
 }
-------------------------------------------------*/
+
 
     // console.log(indexNumber, element, totalValue);
     // here indexNumber and elemnt cannot accessible. and that's cause a refernce error
